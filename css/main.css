@@ -1,0 +1,18 @@
+/* add custom styles */
+#centered {
+  margin-top: 50px;
+  text-align: center;
+}
+
+form {
+  margin: 35px;
+}
+
+input {
+  text-align: center;
+}
+
+p {
+  margin-top: 35px;
+  font-size: 25px;
+}
